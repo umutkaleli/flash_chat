@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336517519267",
+    "project_id": "flash-chat-35570",
+    "storage_bucket": "flash-chat-35570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336517519267:android:88ca505b4e049c66146c16",
+        "android_client_info": {
+          "package_name": "co.umutkaleli.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336517519267-khgvrbcubs5duso28673a4gnbmcpi8aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY4XKGxqDSM6RTB-6Ch-wg9a_ijZ8m7xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336517519267-khgvrbcubs5duso28673a4gnbmcpi8aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
